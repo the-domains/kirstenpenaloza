@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Querida amiga,'
-datePublished: '2016-04-28T15:01:25.478Z'
-dateModified: '2016-04-28T15:00:37.058Z'
+datePublished: '2016-04-28T15:03:35.695Z'
+dateModified: '2016-04-28T15:01:32.533Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-querida-amiga.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-querida-amiga.md
-published: true
 url: querida-amiga/index.html
 _type: Article
 
