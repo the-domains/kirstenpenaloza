@@ -1,4 +1,4 @@
-name: Kirsten-Penaloza
+name: Kirsten Penaloza
 favicon: null
 layout_spectrum: 0.23150730598717928
 typography_spectrum: 0.28263832652010024
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5
+  brandStrength: 0.4375
   lightness: 0.75
-  saturation: 0.6769818898756057
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
