@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'May 18, 2011'
-dateModified: '2017-08-05T18:28:45.264Z'
-datePublished: '2017-08-05T18:28:45.653Z'
+dateModified: '2017-08-05T18:29:38.873Z'
+datePublished: '2017-08-05T18:29:38.977Z'
 title: Und täglich grüβt der Zahnarzt
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-und-taglich-grubt-der-zahnarzt.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:28:45.653Z'
-sourcePath: _posts/2017-08-05-und-taglich-grubt-der-zahnarzt.md
 url: und-taglich-grubt-der-zahnarzt/index.html
 _type: Article
 
