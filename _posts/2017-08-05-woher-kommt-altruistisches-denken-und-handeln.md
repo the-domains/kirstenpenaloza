@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'April 5, 2012'
-dateModified: '2017-08-05T18:12:30.547Z'
-datePublished: '2017-08-05T18:12:30.867Z'
+dateModified: '2017-08-05T18:13:23.525Z'
+datePublished: '2017-08-05T18:13:23.810Z'
 title: Woher kommt altruistisches Denken und Handeln?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-woher-kommt-altruistisches-denken-und-handeln.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:12:30.867Z'
-sourcePath: _posts/2017-08-05-woher-kommt-altruistisches-denken-und-handeln.md
 url: woher-kommt-altruistisches-denken-und-handeln/index.html
 _type: Article
 
