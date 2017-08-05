@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'May 11, 2012'
-dateModified: '2017-08-05T18:08:39.868Z'
-datePublished: '2017-08-05T18:08:40.136Z'
+dateModified: '2017-08-05T18:11:30.953Z'
+datePublished: '2017-08-05T18:11:31.354Z'
 title: Der Zweite Eindruck - Old Delhi
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-der-zweite-eindruck-old-delhi.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:08:40.136Z'
-sourcePath: _posts/2017-08-05-der-zweite-eindruck-old-delhi.md
 url: der-zweite-eindruck-old-delhi/index.html
 _type: Article
 
