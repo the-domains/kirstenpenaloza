@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'April 2, 2012'
-dateModified: '2017-08-05T18:22:27.265Z'
-datePublished: '2017-08-05T18:22:27.731Z'
+dateModified: '2017-08-05T18:22:31.367Z'
+datePublished: '2017-08-05T18:22:31.847Z'
 title: Wie ich zum Buddhismus kam... (Teil II)
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-wie-ich-zum-buddhismus-kam-teil-ii.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T18:22:27.731Z'
-sourcePath: _posts/2017-08-05-wie-ich-zum-buddhismus-kam-teil-ii.md
-_type: Blurb
+url: wie-ich-zum-buddhismus-kam-teil-ii/index.html
+_type: Article
 
 ---
 # **Wie ich zum Buddhismus kam... (Teil II)**
