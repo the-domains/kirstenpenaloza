@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'July 1, 2012'
-dateModified: '2017-08-05T17:59:27.345Z'
-datePublished: '2017-08-05T17:59:27.739Z'
+dateModified: '2017-08-05T17:59:59.549Z'
+datePublished: '2017-08-05T17:59:59.693Z'
 title: Der Inder vor meinem Fenster
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-der-inder-vor-meinem-fenster.md
 starred: false
 datePublishedOriginal: '2017-08-05T17:59:27.739Z'
-sourcePath: _posts/2017-08-05-der-inder-vor-meinem-fenster.md
 _type: Blurb
 
 ---
