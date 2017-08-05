@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'April 4, 2012'
-dateModified: '2017-08-05T18:27:51.761Z'
-datePublished: '2017-08-05T18:27:52.758Z'
+dateModified: '2017-08-05T18:28:08.252Z'
+datePublished: '2017-08-05T18:28:09.906Z'
 title: Auf jedem Weg gibt es beschissene Stellen...das hier war die beschissenste
 author: []
 publisher: {}
