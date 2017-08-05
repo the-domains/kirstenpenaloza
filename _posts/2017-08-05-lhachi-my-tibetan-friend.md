@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'July 2, 2012'
-dateModified: '2017-08-05T17:41:45.220Z'
-datePublished: '2017-08-05T17:41:46.009Z'
+dateModified: '2017-08-05T17:51:26.052Z'
+datePublished: '2017-08-05T17:51:26.608Z'
 title: Lhachi - my Tibetan friend
 author: []
 publisher: {}
@@ -43,3 +43,4 @@ Tibetans who flee first and then go back to Tibet are always caught, put in jail
 Since the Chinese soldiers became much more violent and not seldom shoot at refugees while attempting to cross the Himalayas in hope for a better future and life conditions, less children are sent to India. During the five years of being at the TCV, Lhachi tells me, they were about five to six thousand children. Now they are hardly seven hundred and from them also a lot of Indian kids  
 Now seriously, who believes that Lhachi's story is only one of few???   
 I better leave the answer to you.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a453ae-31af-4a83-9dc5-bf21b7e5af96.jpg)
