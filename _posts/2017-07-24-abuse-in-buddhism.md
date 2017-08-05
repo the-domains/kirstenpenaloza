@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: July 2017
-dateModified: '2017-08-05T17:41:45.220Z'
-datePublished: '2017-08-05T17:41:45.998Z'
+dateModified: '2017-08-05T18:02:21.335Z'
+datePublished: '2017-08-05T18:02:21.676Z'
 title: Abuse in Buddhism
 author: []
 publisher: {}
@@ -39,5 +39,7 @@ As Westerners we tend to romanticize Buddhism, Tibetan Buddhism and the culture,
 I think this is just another way of manipulating our mind, of emotionally being blackmailed to believe we are the ones at fault.
 
 Institutionalized victim shaming is the most dangerous form and although I am still a Buddhist, I still follow Tibetan Buddhism, I also refuse to be a blind follower and support this institutionalized religion.
+
+(c) Kirsten Penaloza
 
 [0]: https://www.lionsroar.com/letter-to-sogyal-rinpoche-from-current-and-ex-rigpa-members-details-abuse-allegations/
