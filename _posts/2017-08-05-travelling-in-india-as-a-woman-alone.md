@@ -1,24 +1,16 @@
 ---
 inFeed: true
-description: >-
-  Recently there has been lots of news about women being raped in India. It
-  started with one case in December 2012, when a twenty something year old
-  student from New Delhi was group raped in a bus. 5 guys raped her in a bus
-  with no one intervening to stop it, nor even to help her afterwards. If raping
-  her multiple times wasn’t bad enough she was beaten and tortured with an iron
-  stick. When the men were done they threw her off the bus and left her badly
-  injured on the street. If I remember well, even then people who witnessed
-  partially the scene never came to help her – at least not immediately.
-dateModified: '2017-08-05T17:24:12.017Z'
-datePublished: '2017-08-05T17:24:12.589Z'
+description: 'March 29, 2013'
+dateModified: '2017-08-05T17:33:52.628Z'
+datePublished: '2017-08-05T17:33:52.926Z'
 title: Travelling in India… as a woman... alone
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-travelling-in-india-as-a-woman-alone.md
 starred: false
 datePublishedOriginal: '2017-08-05T17:24:12.589Z'
-sourcePath: _posts/2017-08-05-travelling-in-india-as-a-woman-alone.md
 url: travelling-in-india-as-a-woman-alone/index.html
 _type: Article
 
@@ -26,6 +18,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2e27715-51cf-42fc-93e8-74cfd44de2d8.jpg)
 
 # **Travelling in India... as a woman... alone**
+
+March 29, 2013
 
 Recently there has been lots of news about women being raped in India. It started with one case in December 2012, when a twenty something year old student from New Delhi was group raped in a bus. 5 guys raped her in a bus with no one intervening to stop it, nor even to help her afterwards. If raping her multiple times wasn't bad enough she was beaten and tortured with an iron stick. When the men were done they threw her off the bus and left her badly injured on the street. If I remember well, even then people who witnessed partially the scene never came to help her -- at least not immediately.
 
@@ -60,7 +54,5 @@ And then there come the western women along. Of course Indians know them from th
 I was naïve in many situations, blind in a few and seldom wise enough to not get in trouble while travelling alone in India and Nepal. For sure I have been more dumb than courageous to go alone and travel on my own in a sexist, repressed country.
 
 So eventually I got into a problem. And ironically it wasn't an Indian man. I mean, I got harassed once by an Indian guy, many tried to flirt with me, one tried to get me to sleep with him, I was stared at by tons but never one single dude tried to force me into something. It was a Tibetan who did it. The whole experience is so embarrassing that I still can't find the words to write it down. Still I want to do it, because I want to warn other girls and women by sharing my experience. The thing is that it has been a process of coping with an event that implies being manipulated and used and blackmailed and I don't know what. So bit by bit I am dealing with it, dealing with the shame and the anger, the frustration and self-reproaches. Eventually I hope I will be able to tell my story.
-
-March 29, 2013
 
 (c)Kirsten Penaloza
