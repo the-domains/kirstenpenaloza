@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: May 2017
-dateModified: '2017-08-05T17:41:45.220Z'
-datePublished: '2017-08-05T17:41:45.999Z'
+dateModified: '2017-08-05T18:02:52.827Z'
+datePublished: '2017-08-05T18:02:53.256Z'
 title: Macho Culture and Childless Women
 author: []
 publisher: {}
@@ -60,5 +60,7 @@ Have people ever considered that women and couples can be happy without children
 Children are not necessarily the ultimate factor of happiness. And above all they don't need to be a measure point for a successful marriage and the love for each other.
 
 Taking a conscious decision of not having children is acknowledging your needs, desires and wishes, but also your limitations. It is not being selfish, it's called maturity.
+
+(c) Kirsten Penaloza
 
 [0]: http://www.inspiremore.com/jennifer-aniston-womans-value-letter/?utm_medium=social&utm_source=IWG&utm_campaign=partner
