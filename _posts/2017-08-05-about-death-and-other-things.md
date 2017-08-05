@@ -1,21 +1,23 @@
 ---
 inFeed: true
-description: "Why is it that most of the people just aren’t able to talk about death, not even be with someone who suffered a loss and help one to get over it? What happened to the societies that made death a tabu? If we don’t even know what exactly is\_death, then how to understand and even harder: to accept it? We can’t even tell if it’s a process, a cycle, a situation, a moment, a fact or just a reality! I remember when I just started to become a Buddhist practitioner and during the guided meditation we were “meditating on death and impermanence” we had to imagine our own moment of death, e.g. in a car accident or whatever came into our minds and observe the emerging uncomfortable sensation. It was supposed to be an aversion against this moment and death in general showing us that we are afraid of it because we haven’t really started to live. All with the final goal to understand that we need to work with our minds and transform them or ourselves in order to live meaningful. To make the story short: I had no such uncomfortable feeling. There was just nothing. No fear, no aversion, no panic. Just nothing. Now that worried me. It couldn’t be possible that I was so indifferent towards my own death! I approached our meditation guide and he recommended to find another way to “get close” to the idea of death in order to experience the emergency of change. Still nothing happened."
-dateModified: '2017-08-05T17:33:20.585Z'
-datePublished: '2017-08-05T17:33:20.988Z'
+description: 'November 30, 2012'
+dateModified: '2017-08-05T17:35:36.949Z'
+datePublished: '2017-08-05T17:35:37.316Z'
 title: About death and other things
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-about-death-and-other-things.md
 starred: false
 datePublishedOriginal: '2017-08-05T17:33:20.988Z'
-sourcePath: _posts/2017-08-05-about-death-and-other-things.md
 url: about-death-and-other-things/index.html
 _type: Article
 
 ---
 # **About death and other things**
+
+November 30, 2012
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c2d329-b238-4bfb-9d49-a806af8d64ea.jpg)
 
 Why is it that most of the people just aren't able to talk about death, not even _be_ with someone who suffered a loss and help one to get over it? What happened to the societies that made death a tabu? If we don't even know what exactly is _death_, then how to understand and even harder: to accept it? We can't even tell if it's a process, a cycle, a situation, a moment, a fact or just a reality!  
