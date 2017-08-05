@@ -1,23 +1,24 @@
 ---
 inFeed: true
-description: 'March 6, 2012'
-dateModified: '2017-08-05T17:53:31.344Z'
-datePublished: '2017-08-05T17:53:31.739Z'
+description: 'March 6, 2012 '
+dateModified: '2017-08-05T17:55:39.765Z'
+datePublished: '2017-08-05T17:55:40.078Z'
 title: Running Away (?)
 author:
   - name: Javed Akhtar
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-running-away.md
 starred: false
 datePublishedOriginal: '2017-08-05T17:53:31.739Z'
-sourcePath: _posts/2017-08-05-running-away.md
 _type: Blurb
 
 ---
 # **[Running Away (?)][0]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cf71143-5d71-44a8-89d2-e52978f845b1.jpg)
 
-March 6, 2012
-
+March 6, 2012 
+> 
 > If you're carrying your restlessness in your heart, you are alive.
 > If you're carrying the lightning of dreams in your eyes, you are alive.
 > Like a gust of wind learn to live free.
@@ -29,7 +30,7 @@ March 6, 2012
 
 Sitting alone at this spartan flat in Frankfurt, Germany, drinking a bottle of a good sparkling wine from one of German´s most famous whine growing region, I realize, I suppose once again, that I am running away from my own fears. Ironically, because I know that I can´t, that I always carry them with me. I have no idea, what expects me in the future months, sometimes I just can´t even explain, how I decided to do this. It somehow happened.
 
-I was sitting one day in November last year together with some other hundred people receiving teachings from His Eminence Ayang Rinpoche. If I remember well it was the Lung (oral transmission of a meditation practice) of Buddha Amithaba, but it could also have been the Lung of the Phowa practice (a meditation form to train you to die consciously).  Right now it doesn´t matter. So, I was sitting there not even trying to follow the teachings, and I was crying and crying, tears were running without any chance to avoid it. My breath became fast and something in my mind understood that I must change something in me, in my life. After that session it was clear, that I really wanted to renounce to whatever I had done until now, to whatever my nonsense priorities were, to my home, my friends, my desires. I decided to go where ever I could be guided through the way of renouncement. Was it Italy? India? Nepal?
+I was sitting one day in November last year together with some other hundred people receiving teachings from His Eminence Ayang Rinpoche. If I remember well it was the Lung (oral transmission of a meditation practice) of Buddha Amithaba, but it could also have been the Lung of the Phowa practice (a meditation form to train you to die consciously). Right now it doesn´t matter. So, I was sitting there not even trying to follow the teachings, and I was crying and crying, tears were running without any chance to avoid it. My breath became fast and something in my mind understood that I must change something in me, in my life. After that session it was clear, that I really wanted to renounce to whatever I had done until now, to whatever my nonsense priorities were, to my home, my friends, my desires. I decided to go where ever I could be guided through the way of renouncement. Was it Italy? India? Nepal?
 
 The following weeks I started to watch out, but the more I wanted something to become concrete, the more it slipped away from my hands. I really wanted to go to Pomaia -- they never replied. Then I thought "let´s go then to India first and then see what comes after". I made prayers to the Buddha and started to recite the refuge prayer to accumulate 100 000 of it, always thinking of my aspiration of renouncement.
 
@@ -59,7 +60,7 @@ The university promotes with the words "Inspiring personalities" and it´s inter
 
 I met people who quit their big jobs, with big salary, searching for another way of earning money on a responsible way such as social business. I am inspired by all these people. And sometimes I also feel really tempted to quit all my plans to go to India, to work as a volunteer, to renounce to this material world, and start an own social business by myself or at least get involved in a project on it. Then again I only bring to my mind all the people in their business clothes, all what they are going through and again I say to myself: "No, I don´t want my life to be like this".
 
-A friend who thinks of herself being kind of a Medium or who is able to foreseen the future told me at the beginning of this phase, that I will meet someone here, a man who might be much older than me, some 13 years older or so, and that he will be the man of my life, and that when I see him, I will know; that I might be tempted to let go my India plans but this would be ok. That I shouldn´t bother or feel guilty if I don´t go to India, that I should do what I think right, without caring about what others say and that if he asks me for a dinner I shouldn´t refuse. So for several days I tried to see in each older guy the one who might rescue me from that terrible lonely existence. But he fortunately never came. 
+A friend who thinks of herself being kind of a Medium or who is able to foreseen the future told me at the beginning of this phase, that I will meet someone here, a man who might be much older than me, some 13 years older or so, and that he will be the man of my life, and that when I see him, I will know; that I might be tempted to let go my India plans but this would be ok. That I shouldn´t bother or feel guilty if I don´t go to India, that I should do what I think right, without caring about what others say and that if he asks me for a dinner I shouldn´t refuse. So for several days I tried to see in each older guy the one who might rescue me from that terrible lonely existence. But he fortunately never came.
 
 Now I have few days left until I leave Frankfurt, and a week until I will be gone to India.
 
