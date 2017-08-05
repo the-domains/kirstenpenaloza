@@ -1,22 +1,24 @@
 ---
 inFeed: true
 description: 'April 1, 2012'
-dateModified: '2017-08-05T18:17:07.197Z'
-datePublished: '2017-08-05T18:17:07.680Z'
+dateModified: '2017-08-05T18:17:11.259Z'
+datePublished: '2017-08-05T18:17:11.665Z'
 title: Wie ich zum Buddhismus kam... (Teil I)
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-05-wie-ich-zum-buddhismus-kam-teil-i.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T18:14:59.172Z'
-_type: Blurb
+url: wie-ich-zum-buddhismus-kam-teil-i/index.html
+_type: Article
 
 ---
 # **Wie ich zum Buddhismus kam... (Teil I)**
 
 April 1, 2012
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cc81d24-2cf8-481e-9cf9-4d785e367efa.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/46275d383e9c3fda96c6ae0698b16618/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0cc81d24-2cf8-481e-9cf9-4d785e367efa.jpg&x=0&y=0)
 
 Viele fragen mich, wie ich zum Buddhismus gekommen bin. Wenn ich das dann beantworte, nehme ich meistens die kurze, übersichtliche, sachliche Version der Geschichte: Den Jahreswechsel 2007 verbrachte ich in Cuernavaca bei meiner Freundin Paty. Paty ist eine übergewichtige, blonde, eigensinnige und sture Mexikanerin, die ganz und gar nicht mexikanisch wirkt. Sie hat immer Recht, sie kommandiert gerne rum, sie regt sich schnell auf, sie hat Astma und ist eine Santera. Bei ihr zu Hause stehen sämtliche schwarz-afrikanisch aussehende Figuren -- schmale Männer mit Kugelbauch und Frauen mit üppigem Busen, an deren Hälsen hängen meistens bunte Ketten aus allerlei Perlchen, je mit der Farbe des jeweiligen "Heiligen" oder Orisha.
 
