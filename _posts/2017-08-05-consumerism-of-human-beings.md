@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'October 16, 2012'
-dateModified: '2017-08-05T17:40:07.858Z'
-datePublished: '2017-08-05T17:40:08.120Z'
+dateModified: '2017-08-05T17:41:12.061Z'
+datePublished: '2017-08-05T17:41:12.606Z'
 title: Consumerism of human beings
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-consumerism-of-human-beings.md
 starred: false
 datePublishedOriginal: '2017-08-05T17:40:08.120Z'
-sourcePath: _posts/2017-08-05-consumerism-of-human-beings.md
 url: consumerism-of-human-beings/index.html
 _type: Article
 
