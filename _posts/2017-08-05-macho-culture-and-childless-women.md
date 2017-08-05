@@ -1,13 +1,8 @@
 ---
 inFeed: true
-description: >-
-  I just read a public post from Jennifer Anniston about her not having
-  children-. It makes me feel better to read her, as I experience this kind of
-  nuisance on a regular basis. I understand that many cultures, such as Latin
-  American or some Asian cultures, believe a woman is only complete when she is
-  a mother and only "woman enough" if she wishes to be a mother.
-dateModified: '2017-08-05T17:03:31.757Z'
-datePublished: '2017-08-05T17:03:32.067Z'
+description: May 2017
+dateModified: '2017-08-05T17:34:58.769Z'
+datePublished: '2017-08-05T17:34:59.127Z'
 title: Macho Culture and Childless Women
 author: []
 publisher: {}
@@ -20,8 +15,11 @@ url: macho-culture-and-childless-women/index.html
 _type: Article
 
 ---
-# **Macho Culture and Childless Women**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25dec34c-6dc8-4bd7-8940-aef00a92278a.jpg)
+
+# **Macho Culture and Childless Women**
+
+May 2017
 
 I just read a[public post from Jennifer Anniston][0] about her not having children-. It makes me feel better to read her, as I experience this kind of nuisance on a regular basis. I understand that many cultures, such as Latin American or some Asian cultures, believe a woman is only complete when she is a mother and only "woman enough" if she wishes to be a mother.
 
@@ -62,7 +60,5 @@ Have people ever considered that women and couples can be happy without children
 Children are not necessarily the ultimate factor of happiness. And above all they don't need to be a measure point for a successful marriage and the love for each other.
 
 Taking a conscious decision of not having children is acknowledging your needs, desires and wishes, but also your limitations. It is not being selfish, it's called maturity.
-
-Published: May 2017
 
 [0]: http://www.inspiremore.com/jennifer-aniston-womans-value-letter/?utm_medium=social&utm_source=IWG&utm_campaign=partner
