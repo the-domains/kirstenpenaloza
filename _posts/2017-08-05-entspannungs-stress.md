@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'April 20, 2011'
-dateModified: '2017-08-05T18:29:27.926Z'
-datePublished: '2017-08-05T18:29:28.258Z'
+dateModified: '2017-08-05T18:29:38.873Z'
+datePublished: '2017-08-05T18:29:38.978Z'
 title: Entspannungs-Stress
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-entspannungs-stress.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:29:28.258Z'
-sourcePath: _posts/2017-08-05-entspannungs-stress.md
 url: entspannungs-stress/index.html
 _type: Article
 
