@@ -1,24 +1,26 @@
 ---
 inFeed: true
-description: 'March 6, 2012 '
-dateModified: '2017-08-05T17:55:39.765Z'
-datePublished: '2017-08-05T17:55:40.078Z'
+description: 'March 6, 2012'
+dateModified: '2017-08-05T18:01:23.645Z'
+datePublished: '2017-08-05T18:01:23.982Z'
 title: Running Away (?)
 author:
   - name: Javed Akhtar
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-05-running-away.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T17:53:31.739Z'
-_type: Blurb
+url: running-away/index.html
+_type: Article
 
 ---
 # **[Running Away (?)][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cf71143-5d71-44a8-89d2-e52978f845b1.jpg)
 
-March 6, 2012 
-> 
+March 6, 2012
+
 > If you're carrying your restlessness in your heart, you are alive.
 > If you're carrying the lightning of dreams in your eyes, you are alive.
 > Like a gust of wind learn to live free.
