@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'March 5, 2012'
-dateModified: '2017-08-05T18:25:07.586Z'
-datePublished: '2017-08-05T18:25:07.688Z'
+dateModified: '2017-08-05T18:24:57.716Z'
+datePublished: '2017-08-05T18:24:58.222Z'
 title: Curry gefällig?
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2017-08-05-curry-gefallig.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:24:58.222Z'
+sourcePath: _posts/2017-08-05-curry-gefallig.md
 _type: Blurb
 
 ---
