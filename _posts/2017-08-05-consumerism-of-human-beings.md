@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 16, 2012'
-dateModified: '2017-08-05T17:47:53.557Z'
-datePublished: '2017-08-05T17:47:53.853Z'
+dateModified: '2017-08-05T18:03:36.751Z'
+datePublished: '2017-08-05T18:03:37.144Z'
 title: Consumerism of human beings
 author: []
 publisher: {}
