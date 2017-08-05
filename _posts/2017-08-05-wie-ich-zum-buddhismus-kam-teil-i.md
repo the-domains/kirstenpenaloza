@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'April 1, 2012'
-dateModified: '2017-08-05T18:18:00.262Z'
-datePublished: '2017-08-05T18:18:00.633Z'
+dateModified: '2017-08-05T18:19:20.907Z'
+datePublished: '2017-08-05T18:19:21.332Z'
 title: Wie ich zum Buddhismus kam... (Teil I)
 author: []
 publisher: {}
@@ -16,9 +16,9 @@ _type: Article
 
 ---
 # **Wie ich zum Buddhismus kam... (Teil I)**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/065d35d5-091a-4da1-8663-9ae670482771.jpg)
 
 April 1, 2012
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/46275d383e9c3fda96c6ae0698b16618/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0cc81d24-2cf8-481e-9cf9-4d785e367efa.jpg&x=0&y=0)
 
 Viele fragen mich, wie ich zum Buddhismus gekommen bin. Wenn ich das dann beantworte, nehme ich meistens die kurze, übersichtliche, sachliche Version der Geschichte: Den Jahreswechsel 2007 verbrachte ich in Cuernavaca bei meiner Freundin Paty. Paty ist eine übergewichtige, blonde, eigensinnige und sture Mexikanerin, die ganz und gar nicht mexikanisch wirkt. Sie hat immer Recht, sie kommandiert gerne rum, sie regt sich schnell auf, sie hat Astma und ist eine Santera. Bei ihr zu Hause stehen sämtliche schwarz-afrikanisch aussehende Figuren -- schmale Männer mit Kugelbauch und Frauen mit üppigem Busen, an deren Hälsen hängen meistens bunte Ketten aus allerlei Perlchen, je mit der Farbe des jeweiligen "Heiligen" oder Orisha.
 
@@ -106,3 +106,4 @@ Es gab also weit vor meinem Eintritt in Casa Tibet Hinweise, Markiersteine oder 
 (c) Kirsten Penaloza
 
 \[1\] Casa ist das spanische Wort für Haus
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/167ceedb1c38272a3e827a557bef2f4a/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2eeb5364-ba69-4dae-bbbf-cfa3ad9b4f24.jpg&x=0&y=0)
