@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 15, 2012'
-dateModified: '2017-08-05T18:11:46.821Z'
-datePublished: '2017-08-05T18:11:48.083Z'
+dateModified: '2017-08-05T18:27:51.761Z'
+datePublished: '2017-08-05T18:27:52.748Z'
 title: Confessions of an (un)pure Mind
 author: []
 publisher: {}
