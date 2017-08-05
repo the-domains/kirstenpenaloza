@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'April 4, 2012'
-dateModified: '2017-08-05T18:13:12.521Z'
-datePublished: '2017-08-05T18:13:12.936Z'
+dateModified: '2017-08-05T18:13:23.525Z'
+datePublished: '2017-08-05T18:13:23.809Z'
 title: Auf jedem Weg gibt es beschissene Stellen...das hier war die beschissenste
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-auf-jedem-weg-gibt-es-beschissene-stellendas-hier-war-die.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:13:12.936Z'
-sourcePath: _posts/2017-08-05-auf-jedem-weg-gibt-es-beschissene-stellendas-hier-war-die.md
 url: auf-jedem-weg-gibt-es-beschissene-stellendas-hier-war-die/index.html
 _type: Article
 
