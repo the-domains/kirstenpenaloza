@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: June 2017
-dateModified: '2017-08-05T18:03:36.751Z'
-datePublished: '2017-08-05T18:03:37.242Z'
+dateModified: '2017-08-05T18:11:46.821Z'
+datePublished: '2017-08-05T18:11:48.079Z'
 title: Shaved head - courage to be ugly?
 author: []
 publisher: {}
