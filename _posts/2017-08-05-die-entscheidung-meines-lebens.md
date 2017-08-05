@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'July 30, 2011'
-dateModified: '2017-08-05T18:26:47.253Z'
-datePublished: '2017-08-05T18:26:47.570Z'
+dateModified: '2017-08-05T18:27:51.761Z'
+datePublished: '2017-08-05T18:27:52.751Z'
 title: Die Entscheidung meines Lebens
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-die-entscheidung-meines-lebens.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:26:47.570Z'
-sourcePath: _posts/2017-08-05-die-entscheidung-meines-lebens.md
 url: die-entscheidung-meines-lebens/index.html
 _type: Article
 
