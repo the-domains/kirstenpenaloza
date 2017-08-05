@@ -1,7 +1,18 @@
+layout_spectrum: 0.850420281700421
+typography_spectrum: 0.32543605000020404
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.023226049756170205
+  lightness: 0.5653118834304302
+  saturation: 0.22555441127444553
+  rhythmicContrast: 0.694625480476822
 name: Kirsten Penaloza
 favicon: null
-layout_spectrum: 0.64343
-typography_spectrum: 0.28263832652010024
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,36 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#605855'
-    - '#c6c5c3'
-    - '#8b8a87'
-    - '#a8a4a6'
-  brandStrength: 0.4375
-  lightness: 0.75
-  saturation: 0.5625
-  rhythmicContrast: 0.5
 purpose: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca60e670-4af3-4c59-818f-363804052b37.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca60e670-4af3-4c59-818f-363804052b37.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Kirsten Penaloza
+description: Blog
+author:
+  name: Kirsten Penaloza
+  email: kirstenliliane@gmail.com
+  url: 'https://kirstenpenaloza.com'
+github: true
