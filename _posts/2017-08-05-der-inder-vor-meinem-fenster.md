@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'July 1, 2012'
-dateModified: '2017-08-05T18:01:58.461Z'
-datePublished: '2017-08-05T18:01:58.775Z'
+dateModified: '2017-08-05T18:03:36.751Z'
+datePublished: '2017-08-05T18:03:37.089Z'
 title: Der Inder vor meinem Fenster
 author: []
 publisher: {}
