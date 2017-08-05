@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: June 2017
-dateModified: '2017-08-05T17:41:45.220Z'
-datePublished: '2017-08-05T17:41:46.003Z'
+dateModified: '2017-08-05T18:02:39.779Z'
+datePublished: '2017-08-05T18:02:40.270Z'
 title: Shaved head - courage to be ugly?
 author: []
 publisher: {}
@@ -46,3 +46,5 @@ It took me going to India, to break into pieces and patch myself up again. It to
 
 And that's where I am now: Centered, strong, and with enough self esteem to endure whatever comes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e5aa43-4ca4-4b01-95b2-d22e693da716.jpg)
+
+(c) Kirsten Penaloza
