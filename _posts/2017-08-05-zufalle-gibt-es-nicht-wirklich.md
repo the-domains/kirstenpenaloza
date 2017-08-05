@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'March 1, 2012'
-dateModified: '2017-08-05T18:25:46.042Z'
-datePublished: '2017-08-05T18:25:46.361Z'
+dateModified: '2017-08-05T18:25:50.612Z'
+datePublished: '2017-08-05T18:25:50.937Z'
 title: Zufälle gibt es nicht wirklich...
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-zufalle-gibt-es-nicht-wirklich.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T18:25:46.361Z'
-sourcePath: _posts/2017-08-05-zufalle-gibt-es-nicht-wirklich.md
-_type: Blurb
+url: zufalle-gibt-es-nicht-wirklich/index.html
+_type: Article
 
 ---
 # **[Zufälle gibt es nicht wirklich...][0]**
