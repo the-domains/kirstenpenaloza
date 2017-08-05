@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'March 1, 2012'
-dateModified: '2017-08-05T18:25:50.612Z'
-datePublished: '2017-08-05T18:25:50.937Z'
+dateModified: '2017-08-05T18:27:51.761Z'
+datePublished: '2017-08-05T18:27:52.757Z'
 title: Zufälle gibt es nicht wirklich...
 author: []
 publisher: {}
