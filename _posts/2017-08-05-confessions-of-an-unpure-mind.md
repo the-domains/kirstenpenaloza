@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'October 15, 2012'
-dateModified: '2017-08-05T17:58:58.473Z'
-datePublished: '2017-08-05T17:58:58.819Z'
+dateModified: '2017-08-05T17:59:59.549Z'
+datePublished: '2017-08-05T17:59:59.693Z'
 title: Confessions of an (un)pure Mind
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-confessions-of-an-unpure-mind.md
 starred: false
 datePublishedOriginal: '2017-08-05T17:58:58.819Z'
-sourcePath: _posts/2017-08-05-confessions-of-an-unpure-mind.md
 _type: Blurb
 
 ---
