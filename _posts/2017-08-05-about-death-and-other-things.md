@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'November 30, 2012'
-dateModified: '2017-08-05T17:41:12.061Z'
-datePublished: '2017-08-05T17:41:12.599Z'
+dateModified: '2017-08-05T17:41:45.220Z'
+datePublished: '2017-08-05T17:41:45.980Z'
 title: About death and other things
 author: []
 publisher: {}
