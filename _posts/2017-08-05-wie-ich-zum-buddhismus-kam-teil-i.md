@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'April 1, 2012'
-dateModified: '2017-08-05T18:14:58.775Z'
-datePublished: '2017-08-05T18:14:59.172Z'
+dateModified: '2017-08-05T18:17:07.197Z'
+datePublished: '2017-08-05T18:17:07.680Z'
 title: Wie ich zum Buddhismus kam... (Teil I)
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-wie-ich-zum-buddhismus-kam-teil-i.md
 starred: false
 datePublishedOriginal: '2017-08-05T18:14:59.172Z'
-sourcePath: _posts/2017-08-05-wie-ich-zum-buddhismus-kam-teil-i.md
 _type: Blurb
 
 ---
@@ -65,7 +65,7 @@ Wenig später schrieb ich mich für den Kurs ein, der Anfang März für ein ganz
 
 Am Samstag traf ich extrem pünktlich am Veranstaltungsort ein, belegte einen Platz in der vierten Reihe am Rande und beobachtete so auffällig unauffällig alle Leute um mich herum und die, die reinkamen. Alles war vertreten: von aufgetakelten Tussis, businessmäßig aussehenden Frauen und Männern, Hippies und Leute wie du und ich. Das kann ja mal interessant werden! Denn so richtig in meiner Welt fühlte ich mich nicht.
 
-Vorne in der zweiten Reihe ganz links saß ein ziemlich verkifft drein schauender Kerl (geil, der hat auch voll die Ruhe weg oder ist einfach nur total verlplant), mit längeren, zusammengebundenen Haaren, zwei Sitze neben mir eine gut gekleidete, schick geschminkte Frau (mann, um die Uhrzeit schon so aussehen? Da schlaf ich doch lieber ein wenig länger...). Irgenwannd betrat ein sympatischer Herr die Bühne, schätzungweise Ende dreißig, Anfang vierzig, mit einem angenehmen Aussehen ohne dass es ein Schönling war (gut, dann hoffe ich dass es hier nicht so was wie ein Club-der-Optimisten-Veranstaltung wird)  und stellte sich als Marco Antonio Karam (Tony), Gründer und Leiter von Casa Tibet México vor.
+Vorne in der zweiten Reihe ganz links saß ein ziemlich verkifft drein schauender Kerl (geil, der hat auch voll die Ruhe weg oder ist einfach nur total verlplant), mit längeren, zusammengebundenen Haaren, zwei Sitze neben mir eine gut gekleidete, schick geschminkte Frau (mann, um die Uhrzeit schon so aussehen? Da schlaf ich doch lieber ein wenig länger...). Irgenwannd betrat ein sympatischer Herr die Bühne, schätzungweise Ende dreißig, Anfang vierzig, mit einem angenehmen Aussehen ohne dass es ein Schönling war (gut, dann hoffe ich dass es hier nicht so was wie ein Club-der-Optimisten-Veranstaltung wird) und stellte sich als Marco Antonio Karam (Tony), Gründer und Leiter von Casa Tibet México vor.
 
 Dieser Tag veränderte mein Leben.
 
@@ -95,7 +95,7 @@ Selbst nachdem das Ritual vorbei und die Halle leer war, standen Hanka und ich n
 
 „Ich würde voll gerne dazu gehören" sagte ich mehr zu mir als zu Hanka, und sie antwortete: „Ja, das fühlt sich so schön an!"
 
-Dann guckten wir die Nonne an, die ganz ruhig da stand, mit  ihrem rasierten Kopf und orangefarbenes Gewand. Sie erwiderte unseren Blick mit einem Lächeln und machte mit ihrem Hand eine Geste der Einladung zum Altar zu kommen und ebenso den „Buddha zu baden". Etwas unbeholfen und befremdlich taten wir es auch.
+Dann guckten wir die Nonne an, die ganz ruhig da stand, mit ihrem rasierten Kopf und orangefarbenes Gewand. Sie erwiderte unseren Blick mit einem Lächeln und machte mit ihrem Hand eine Geste der Einladung zum Altar zu kommen und ebenso den „Buddha zu baden". Etwas unbeholfen und befremdlich taten wir es auch.
 
 Am selben Tag kaufte ich noch einen tibetischen Mala im Museumsschop. Auch wenn ich nicht wusste, was ich damit hätte anfangen sollen und ihn daher auch erstmal in meiner „Buddhisten-Starter-Kit-Schachtel" aufbewahrte.
 
