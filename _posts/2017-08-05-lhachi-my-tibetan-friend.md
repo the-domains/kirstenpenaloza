@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'July 2, 2012'
-dateModified: '2017-08-05T17:51:26.052Z'
-datePublished: '2017-08-05T17:51:26.608Z'
+dateModified: '2017-08-05T18:01:07.483Z'
+datePublished: '2017-08-05T18:01:07.777Z'
 title: Lhachi - my Tibetan friend
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Article
 # **Lhachi - my Tibetan friend**
 
 July 2, 2012
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a453ae-31af-4a83-9dc5-bf21b7e5af96.jpg)
 
 I met this lovely Tibetan girl called Lhachi. Her parents are taking care of the Guru Rinpoche statue at Tso Pema, India. Since two weeks I am here and the first days I used to go there almost each day to make prostrations, meditate or do butter lamp offerings. When I was doing the latter Lhachi accompanied me and since I always care the "Tibet will be free" bag she asked me if she may take some pictures of me. We started to talk and I liked her immediately, because she has a very open, polite, calm and friendly manner.   
 Almost each day I went up to the temple to see her and eventually she would teach me a little bit of Tibetan and I would teach her a little bit of Spanish. But we became friends, so teaching and learning became secondary. Through her I was - or still am - invited to drink chai with her and her parents, sometimes her brother, who is a Kempo in one of the monasteries, sometimes other relatives or monks are there. With them I tried the famous salty butter tea, which for most of the westerns is totally not their taste, and tsampa. A "dish" made of barley, tea or simple water, butter and dried yak cheese. You mix everything that way that it becomes like a ball and you eat it just bit by bit. I must confess that I liked both and they wondered how it comes. So we laugh when I say that in another life I was Tibetan myself.   
@@ -43,4 +44,5 @@ Tibetans who flee first and then go back to Tibet are always caught, put in jail
 Since the Chinese soldiers became much more violent and not seldom shoot at refugees while attempting to cross the Himalayas in hope for a better future and life conditions, less children are sent to India. During the five years of being at the TCV, Lhachi tells me, they were about five to six thousand children. Now they are hardly seven hundred and from them also a lot of Indian kids  
 Now seriously, who believes that Lhachi's story is only one of few???   
 I better leave the answer to you.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a453ae-31af-4a83-9dc5-bf21b7e5af96.jpg)
+
+(c) Kirsten Penaloza
