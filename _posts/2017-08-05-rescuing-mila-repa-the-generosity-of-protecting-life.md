@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'November 6, 2012'
-dateModified: '2017-08-05T17:39:14.917Z'
-datePublished: '2017-08-05T17:39:16.483Z'
+dateModified: '2017-08-05T17:41:12.061Z'
+datePublished: '2017-08-05T17:41:12.608Z'
 title: Rescuing Mila (Repa) - The generosity of protecting life
 author: []
 publisher: {}
