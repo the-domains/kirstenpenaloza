@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'May 12, 2012'
-dateModified: '2017-08-05T18:06:39.127Z'
-datePublished: '2017-08-05T18:06:39.744Z'
+dateModified: '2017-08-05T18:06:43.583Z'
+datePublished: '2017-08-05T18:06:43.813Z'
 title: Heute mal planlos
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-heute-mal-planlos.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T18:06:39.744Z'
-sourcePath: _posts/2017-08-05-heute-mal-planlos.md
-_type: Blurb
+url: heute-mal-planlos/index.html
+_type: Article
 
 ---
 # **Heute mal planlos**
