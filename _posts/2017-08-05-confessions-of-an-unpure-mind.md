@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'October 15, 2012'
-dateModified: '2017-08-05T17:59:59.549Z'
-datePublished: '2017-08-05T17:59:59.693Z'
+dateModified: '2017-08-05T18:01:46.175Z'
+datePublished: '2017-08-05T18:01:46.482Z'
 title: Confessions of an (un)pure Mind
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-05-confessions-of-an-unpure-mind.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T17:58:58.819Z'
-_type: Blurb
+url: confessions-of-an-unpure-mind/index.html
+_type: Article
 
 ---
 # **[Confessions of an (un)pure Mind][0]**
@@ -28,5 +30,7 @@ Mir gefällt diese Idee zunehmend. Denn in den letzten Wochen ist mir aufgefalle
 Ich meine, ein bisschen Übung in peinliche Geschichten zu erzählen, habe ich ja schon, daher sollte mir das sooo schwer auch nicht fallen. Und mir ist schon als Kind aufgefallen, dass je mehr ich preisgebe, desto weniger bin ich angreifbar und erst Recht erpressbar. Endlich wird mir klar, was der Spruch "Ist der Ruf erst ruiniert, lebt's sich völlig ungeniert" bedeutet. Als ich nämlich klein war, erpresste mich meine Schwester mit etwas, was ich als Sechsjährige getan hatte und mir über Jahre auf peinlicher Weise leid tat und daher mich schämte, dass anderer es erführen. Und zwar dass ich sie mit einem scharfen - dem schärfsten unserer Küche - Messer bedroht habe. Und alles nur, weil sie ständig den Fernsehsender wechselte und mich nicht gucken lies, was ich wollte. Da ich noch kaum Deutsch, sondern nur Spanisch sprach und sie wiederum kaum noch Spanisch, dafür aber mehr Deutsch sprach, fühlte ich mich so hilflos, nicht mir ihr verbal streiten zu können, dass ich auf die "bessere" Idee kam, in die Küche zu rennen (sie lief mir natürlich neugierig hinterher) und das Messer auf sie zu richten. Das Geschrei, das folgte und die unvermeidliche und sofortige Petze scherte mir wer weiß was ein. Ich erinnere mich nicht mehr daran, ob mir meine Mutter eine geschellt hat oder nicht, aber meine Tat war schlimm genug, dass mich meine Schwester für ca. 4 Jahre damit erpresste. Immer dann, wenn ich etwas nicht tat, was sie von mir verlangte, drohte sie, es allen ihren Freunden zu erzählen. Das wollte ich natürlich nicht, weil es mir peinlich war, dass andere erkannten, was für eine böse Schwester ich sei (oder mich dafür hielten). Keine Ahnung woher ich die Einsicht bekam, oder schlichtweg das Selbstvertrauen, ihr eines Tages zu kontern und ihr einfach entgegenzuhalten, dass sie es doch ruhig tun soll. Ich erinnere mich noch gut an ihr Gesicht: total verdutzt und versteinert. Kein Wunder! Ich hatte ihr die stärkste Waffe gegen mich genommen und wurde zumindest für eine Weile unangreifbar.  
 Viele Personen denken, je mehr sie preisgeben, umso angreifbarer werden sie. Ich aber bin davon überzeugt, dass es genau umgekehrt ist. Nicht nur ist das ein positiver Effekt der Eingeständnisse, sondern auch die seelische oder geistige Reinigung des Bewusstseins.  
 Auf denn!
+
+(c) Kirsten Penaloza
 
 [0]: https://kirstenpenaloza.squarespace.com/deutsch-blah/confessions-of-an-unpure-mind
