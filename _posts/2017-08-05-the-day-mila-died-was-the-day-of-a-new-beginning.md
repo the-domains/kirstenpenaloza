@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "It was April the 10th\_of this year (2013) when Mila, the puppy my now husband Alex and I rescued almost exactly half a year ago, died. This day was full moon and a special and auspicious one for the Tibetan Buddhist Calendar, too."
-dateModified: '2017-08-05T17:36:19.683Z'
-datePublished: '2017-08-05T17:36:20.047Z'
+dateModified: '2017-08-05T17:41:12.061Z'
+datePublished: '2017-08-05T17:41:12.605Z'
 title: The day Mila died was the day of a new beginning
 author: []
 publisher: {}
