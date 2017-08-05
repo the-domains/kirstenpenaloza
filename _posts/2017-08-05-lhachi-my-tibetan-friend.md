@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'July 2, 2012'
-dateModified: '2017-08-05T18:27:51.761Z'
-datePublished: '2017-08-05T18:27:52.701Z'
+dateModified: '2017-08-05T18:28:08.252Z'
+datePublished: '2017-08-05T18:28:09.850Z'
 title: Lhachi - my Tibetan friend
 author: []
 publisher: {}
