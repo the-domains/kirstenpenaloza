@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'April 1, 2012'
-dateModified: '2017-08-05T18:20:27.788Z'
-datePublished: '2017-08-05T18:20:28.538Z'
+dateModified: '2017-08-05T18:22:41.610Z'
+datePublished: '2017-08-05T18:22:41.779Z'
 title: Wie ich zum Buddhismus kam... (Teil I)
 author: []
 publisher: {}
