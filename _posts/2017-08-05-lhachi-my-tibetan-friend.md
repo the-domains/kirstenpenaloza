@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'July 2, 2012'
-dateModified: '2017-08-05T17:40:55.954Z'
-datePublished: '2017-08-05T17:40:56.479Z'
+dateModified: '2017-08-05T17:41:01.046Z'
+datePublished: '2017-08-05T17:41:01.557Z'
 title: Lhachi - my Tibetan friend
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-lhachi-my-tibetan-friend.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T17:40:56.479Z'
-sourcePath: _posts/2017-08-05-lhachi-my-tibetan-friend.md
-_type: Blurb
+url: lhachi-my-tibetan-friend/index.html
+_type: Article
 
 ---
 # **Lhachi - my Tibetan friend**
