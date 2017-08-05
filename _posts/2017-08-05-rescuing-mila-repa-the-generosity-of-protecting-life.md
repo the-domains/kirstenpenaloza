@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'November 6, 2012'
-dateModified: '2017-08-05T17:39:08.071Z'
-datePublished: '2017-08-05T17:39:08.434Z'
+dateModified: '2017-08-05T17:39:14.917Z'
+datePublished: '2017-08-05T17:39:16.483Z'
 title: Rescuing Mila (Repa) - The generosity of protecting life
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-05-rescuing-mila-repa-the-generosity-of-protecting-life.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-05T17:39:08.434Z'
-sourcePath: _posts/2017-08-05-rescuing-mila-repa-the-generosity-of-protecting-life.md
-_type: Blurb
+url: rescuing-mila-repa-the-generosity-of-protecting-life/index.html
+_type: Article
 
 ---
 # **Rescuing Mila (Repa) - The generosity of protecting life**
