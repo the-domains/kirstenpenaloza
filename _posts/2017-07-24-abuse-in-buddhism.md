@@ -1,10 +1,10 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   I just read about the open letter from students of Sogyal Rinpoche, in which
   they mention in 12 pages physical, emotional and sexual abuse from him.
-dateModified: '2017-08-05T16:59:22.835Z'
-datePublished: '2017-08-05T16:59:23.265Z'
+dateModified: '2017-08-05T17:02:56.397Z'
+datePublished: '2017-08-05T17:02:58.130Z'
 title: Abuse in Buddhism
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T00:34:42.590Z'
 url: abuse-in-buddhism/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dd34fed-b489-46a3-a500-4cc190979fa7.jpg)
