@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 16, 2012'
-dateModified: '2017-08-05T17:41:45.220Z'
-datePublished: '2017-08-05T17:41:45.998Z'
+dateModified: '2017-08-05T17:48:00.754Z'
+datePublished: '2017-08-05T17:48:01.234Z'
 title: Consumerism of human beings
 author: []
 publisher: {}
@@ -34,3 +34,4 @@ This is the consumerism I mean: we get one person and exchange it for another, n
 And after this experience with the Nepali guy, my ego felt offended, my self esteem again suffered a small slap in the face, but above all I understood for the first time that it wasn't only about me. I deeply felt from inside the sadness about what we humans have become, and that the existentialists like Sartre and De Beauvoir where right in their statements. So I came back to my dark, cold and impersonal hotel room, sat down on my bed and cried. I cried for the human kind, and the loss of humanity. Cried because I felt like being used and seen as an object and not as a living being, cried because I made felt others like this, because I have misused other people the way it just happened to me.  
 And as much exciting and even exotic and nice this experience was, it also leaves a bittersweet taste and the determination to not want to taste this again. I'm just not made for this. I don't want this, but what about some real and genuine love and affection instead?  
 I will be looking for it.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b69d38-929b-4768-81cb-fd2338c1d41c.jpg)
