@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Before I begin, I am not pulling a Britney Spears; in other words, I am not
-  going through a rough time, I am not hating myself, I am not going through a
-  divorce or the kind.
-dateModified: '2017-08-05T17:03:31.757Z'
-datePublished: '2017-08-05T17:03:32.073Z'
+description: June 2017
+dateModified: '2017-08-05T17:34:31.054Z'
+datePublished: '2017-08-05T17:34:31.441Z'
 title: Shaved head - courage to be ugly?
 author: []
 publisher: {}
@@ -19,6 +16,8 @@ _type: Article
 
 ---
 # **Shaved head - courage to be ugly?**
+
+June 2017
 
 Before I begin, I am not pulling a Britney Spears; in other words, I am not going through a rough time, I am not hating myself, I am not going through a divorce or the kind.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51e7122c-a865-4a1b-8cb1-fa59f3c5b7e9.jpg)
@@ -47,5 +46,3 @@ It took me going to India, to break into pieces and patch myself up again. It to
 
 And that's where I am now: Centered, strong, and with enough self esteem to endure whatever comes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e5aa43-4ca4-4b01-95b2-d22e693da716.jpg)
-
-Published June 2017
