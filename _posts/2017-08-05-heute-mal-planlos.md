@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 12, 2012'
-dateModified: '2017-08-05T18:06:43.583Z'
-datePublished: '2017-08-05T18:06:43.813Z'
+dateModified: '2017-08-05T18:11:30.953Z'
+datePublished: '2017-08-05T18:11:31.330Z'
 title: Heute mal planlos
 author: []
 publisher: {}
