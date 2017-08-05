@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: July 2017
-dateModified: '2017-08-05T17:36:19.683Z'
-datePublished: '2017-08-05T17:36:20.111Z'
+dateModified: '2017-08-05T17:41:12.061Z'
+datePublished: '2017-08-05T17:41:12.344Z'
 title: Abuse in Buddhism
 author: []
 publisher: {}
