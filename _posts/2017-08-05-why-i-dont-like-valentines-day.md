@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'My dear husband and soul mate,'
-dateModified: '2017-08-05T17:41:45.220Z'
-datePublished: '2017-08-05T17:41:45.981Z'
+dateModified: '2017-08-05T18:03:06.603Z'
+datePublished: '2017-08-05T18:03:07.067Z'
 title: Why I don't like Valentine's Day
 author: []
 publisher: {}
@@ -33,3 +33,5 @@ Today is just another day, no - not "just", but fortunately another day in which
 I don't like Valentine's Day, because I just don't find a way in which I can fully show how much I love you. It frustrates me, because this day evidences how limited I am when it comes to expressing all this and more. It makes me sad that there is nothing else I can do than simply write this blog and share it with the world: You.
 
 Published February 2014
+
+(c) Kirsten Penaloza
