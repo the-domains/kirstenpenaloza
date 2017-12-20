@@ -11,7 +11,7 @@ color:
   lightness: 0.5653118834304302
   saturation: 0.22555441127444553
   rhythmicContrast: 0.694625480476822
-name: Kirsten Penaloza
+name: Kirsten Penaloza Blog
 favicon: null
 cta:
   domain: null
@@ -56,6 +56,6 @@ description: Blog
 author:
   name: Kirsten Penaloza
   email: kirstenliliane@gmail.com
-  url: 'https://kirstenpenaloza.com'
+  url: 'https://blog.kirstenpenaloza.com'
 github: true
-url: 'https://kirstenpenaloza.com'
+url: 'https://blog.kirstenpenaloza.com'
