@@ -1,5 +1,5 @@
-layout_spectrum: 0.850420281700421
-typography_spectrum: 0.32543605000020404
+layout_spectrum: 0.8079882126532053
+typography_spectrum: 0.9795883701849581
 color:
   brandColors:
     - '#FCFFF5'
@@ -7,10 +7,10 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.023226049756170205
-  lightness: 0.5653118834304302
-  saturation: 0.22555441127444553
-  rhythmicContrast: 0.694625480476822
+  brandStrength: 0.7755999342734824
+  lightness: 0.6573606395577588
+  saturation: 0.09193663255200896
+  rhythmicContrast: 0.46094487945696727
 name: Kirsten Penaloza Blog
 favicon: null
 cta:
