@@ -7,16 +7,16 @@ description: >-
   well-known area of our lives, it refers more to a new era of coffee making and
   serving, but more so the relationship between the consumer and coffee as a
   product.
-dateModified: '2018-08-26T23:38:18.222Z'
-datePublished: '2018-08-26T23:38:18.601Z'
+dateModified: '2018-08-26T23:48:53.512Z'
+datePublished: '2018-08-26T23:48:54.828Z'
 title: The Fourth Wave of Coffee
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-08-26-the-fourth-wave-of-coffee.md
 starred: false
 datePublishedOriginal: '2018-08-26T23:38:18.601Z'
-sourcePath: _posts/2018-08-26-the-fourth-wave-of-coffee.md
 url: the-fourth-wave-of-coffee/index.html
 _type: Article
 
