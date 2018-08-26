@@ -52,7 +52,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: Kirsten Penaloza
-description: Blog
+description: >-
+  Blog - Everything in here is written by me and reflects my opinion and
+  experience only. Read at your own risk!
 author:
   name: Kirsten Penaloza
   email: kirstenliliane@gmail.com
