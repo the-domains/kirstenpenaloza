@@ -7,8 +7,8 @@ description: >-
   well-known area of our lives, it refers more to a new era of coffee making and
   serving, but more so the relationship between the consumer and coffee as a
   product.
-dateModified: '2018-08-27T00:06:46.283Z'
-datePublished: '2018-08-27T00:06:46.721Z'
+dateModified: '2018-08-27T00:08:51.848Z'
+datePublished: '2018-08-27T00:08:52.931Z'
 title: The Fourth Wave of Coffee
 author: []
 publisher: {}
