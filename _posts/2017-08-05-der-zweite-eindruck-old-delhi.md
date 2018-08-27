@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 11, 2012'
-dateModified: '2018-08-26T23:48:53.512Z'
-datePublished: '2018-08-26T23:48:54.896Z'
+dateModified: '2018-08-27T00:08:51.848Z'
+datePublished: '2018-08-27T00:08:52.955Z'
 title: Der Zweite Eindruck - Old Delhi
 author: []
 publisher: {}
