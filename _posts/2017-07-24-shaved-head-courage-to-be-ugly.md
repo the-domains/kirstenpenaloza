@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: June 2017
-dateModified: '2018-08-26T23:48:53.512Z'
-datePublished: '2018-08-26T23:48:54.812Z'
+dateModified: '2018-08-27T00:04:54.205Z'
+datePublished: '2018-08-27T00:04:54.783Z'
 title: Shaved head - courage to be ugly?
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T00:56:42.056Z'
 url: shaved-head-courage-to-be-ugly/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **Shaved head - courage to be ugly?**
