@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: July 2017
-dateModified: '2018-08-27T00:04:37.229Z'
-datePublished: '2018-08-27T00:04:37.774Z'
+dateModified: '2018-08-27T00:08:02.712Z'
+datePublished: '2018-08-27T00:08:03.281Z'
 title: Abuse in Buddhism
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T00:34:42.590Z'
 url: abuse-in-buddhism/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dd34fed-b489-46a3-a500-4cc190979fa7.jpg)
