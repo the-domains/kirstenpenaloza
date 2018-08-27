@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'April 20, 2011'
-dateModified: '2018-08-26T23:48:53.512Z'
-datePublished: '2018-08-26T23:48:54.912Z'
+dateModified: '2018-08-27T00:08:51.848Z'
+datePublished: '2018-08-27T00:08:52.972Z'
 title: Entspannungs-Stress
 author: []
 publisher: {}
